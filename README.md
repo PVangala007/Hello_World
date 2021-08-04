@@ -1,2 +1,4 @@
 # Hello_World
-My first repository
+
+Starting out my git-hub journey....
+Wish me luck!!!
